@@ -1,0 +1,100 @@
+	
+.texto-main {
+	color: white;
+}
+.slider-main {
+	background: url('../img/bg1.jpg');
+	background-repeat: no-repeat;
+	width: 1348px;
+	height: 640px;
+	background-size:100%;
+	text-align: center;
+	padding-top: 200px;
+}
+
+.menu-item {
+	padding-bottom: 23px;
+}
+
+.logo {
+	padding-right: 450px;
+	font:bold;
+} 
+
+
+#menu ul {
+    padding:16px;
+    margin:1px;
+    
+    list-style:none;
+    
+
+	
+}
+
+#menu ul li { display: inline; 
+}
+
+#menu ul li a {
+	padding: 6px 12px;
+    display: inline-block;
+    /* visual do link */
+	
+    text-decoration: none;
+  	color: white;
+	text-transform: uppercase;
+	
+}
+
+.navegacao{
+	border-bottom-style: solid;
+	border-bottom-width:2px;
+}
+.menu-item:hover {
+	border-bottom:solid;
+	border-bottom-color: blue;
+}
+
+
+.lista-servicos {
+	display:inline-flex;
+	list-style: none;
+	padding: 10px;
+}
+
+
+.apresentacao {
+	padding: 100px;
+	background-color:#E0E4CC;
+}
+
+.apresentacao-body {
+	text-align: center;
+	
+}
+
+.box-1 {
+	padding: 100px;
+}
+
+.ct-title {
+	text-align: center;
+}
+
+.ct-sub-title {
+	text-align: center;
+}
+
+.box-servicos {
+	background-color: aqua;
+	padding: 100px;
+	text-align: center;
+
+}
+
+
+.linha-pg {
+	width:150px;
+	height:100px;
+	
+}
